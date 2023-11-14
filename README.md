@@ -1,4 +1,4 @@
-# Signal TLS Proxy
+# qianli.chat TLS Proxy
 
 To run a Signal TLS proxy, you will need a host that has ports 80 and 443 available and a domain name that points to that host.
 
